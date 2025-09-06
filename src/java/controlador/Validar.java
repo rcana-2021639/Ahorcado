@@ -1,7 +1,6 @@
 package controlador;
 
-import com.kinalitosclothes.modelo.Usuarios;
-import com.kinalitosclothes.modelo.UsuariosDAO;
+import modelo.*;
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

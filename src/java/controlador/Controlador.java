@@ -1,6 +1,6 @@
 package controlador;
 
-import com.kinalitosclothes.modelo.*;
+import modelo.*;
 import java.io.IOException;
 import java.sql.Time;
 import java.text.ParseException;
